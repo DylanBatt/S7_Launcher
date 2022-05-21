@@ -7,3 +7,12 @@ This will work on a Single Project, and also a Multi Project
 
 Depending on interest this may become something bigger
 
+Instructions for Use
+====================
+
+1. Download the S7 Launcher.exe
+2. Place the S7 Launcher.exe in ANY Simatic Manager project folders
+3. You can now run the S7 Launcher, and Simatic will open with the project loaded
+
+
+
